@@ -1,2 +1,2 @@
 # Color Splash
-A 2D game made by unity
+A 2D game made with unity
